@@ -2,6 +2,8 @@
 
 *Your intelligent navigator for India's modern criminal laws.*
 
+App Link: https://legaledgeindia.streamlit.app/
+
 LegalEdge India is a high-speed, interactive micro-SaaS designed to help legal professionals and citizens transition from India's legacy penal codes (IPC/CrPC) to the newly enacted Bharatiya laws (BNS, BNSS, BSA). 
 
 By combining **Vectorless RAG** with  **Gemini 3.1 Flash Lite**, this tool eliminates AI hallucinations, maintains the strict hierarchical structure of legal documents, and delivers answers in a clean, venture-backed-style user interface.
